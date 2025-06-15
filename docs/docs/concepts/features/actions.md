@@ -24,7 +24,7 @@ Using the actions feature, *ORG_OWNERs* create a flow for each supported flow ty
 Each flow type provides its own events.
 You can hook into these events by assigning them an action.
 An action is composed of
-* a name,
+* a full name,
 * a custom JavaScript code snippet,
 * an execution timeout in seconds,
 * a switch that defines if its corresponding flow should fail if the action fails.
